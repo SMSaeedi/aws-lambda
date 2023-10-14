@@ -1,4 +1,4 @@
-package com.aws.lamda.domain;
+package com.aws.lambda.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

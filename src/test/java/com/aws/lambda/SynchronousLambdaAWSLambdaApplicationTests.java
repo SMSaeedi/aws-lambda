@@ -1,10 +1,10 @@
-package com.aws.lamda;
+package com.aws.lambda;
 
 import com.amazonaws.serverless.proxy.internal.testutils.AwsProxyRequestBuilder;
 import com.amazonaws.serverless.proxy.internal.testutils.MockLambdaContext;
 import com.amazonaws.serverless.proxy.model.AwsProxyRequest;
 import com.amazonaws.serverless.proxy.model.AwsProxyResponse;
-import com.aws.lamda.handler.SynchronousLambdaHandler;
+import com.aws.lambda.handler.SynchronousLambdaHandler;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

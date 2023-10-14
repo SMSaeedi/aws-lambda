@@ -1,6 +1,6 @@
-package com.aws.lamda.controller;
+package com.aws.lambda.controller;
 
-import com.aws.lamda.domain.User;
+import com.aws.lambda.domain.User;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
